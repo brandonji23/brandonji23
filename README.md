@@ -1,16 +1,23 @@
-## Hi there 👋
+## Bienvenido👋
 
-<!--
-**brandonji23/brandonji23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🖥️ Desarrollador de software
+- 📧 Brandonjimen67@gmail.com
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Vias de contacto
+
+[IG](https://www.instagram.com/brandonjimenez____)
+
+---
+### Lenguajes
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&style=flat&logo=php&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-blue?style=flat&logo=postgresql&logoColor=white)
+
+
+
+
+
+
+
