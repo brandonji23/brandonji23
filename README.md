@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/developer-banner.png" alt="Brandon Jimenez - Full Stack & AI Developer" width="100%"/>
+<img src="./developer-banner.png" alt="Brandon Jimenez - Full Stack & AI Developer" width="100%"/>
 
 </div>
 
